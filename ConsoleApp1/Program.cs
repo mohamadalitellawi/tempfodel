@@ -20,7 +20,7 @@ namespace ConsoleApp1
             Console.ResetColor();
 
             Console.WriteLine("Hello");
-
+            Console.WriteLine("XXXXXXXXXXXXHelloXXXXXXXXXXXXXXX");
             Console.Read();
         }
     }
