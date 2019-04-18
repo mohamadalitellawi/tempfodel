@@ -19,6 +19,8 @@ namespace ConsoleApp1
             Console.WriteLine("Another line.");
             Console.ResetColor();
 
+            Console.WriteLine("Hello");
+
             Console.Read();
         }
     }
