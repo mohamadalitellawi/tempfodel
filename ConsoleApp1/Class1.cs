@@ -8,5 +8,10 @@ namespace ConsoleApp1
 {
     class Class1
     {
+        static void xxx()
+        {
+            Console.Write("JJJJJJJJJJJJJJJ");
+
+        }
     }
 }
